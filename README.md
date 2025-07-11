@@ -50,12 +50,12 @@ We utilized the following datasets for training and evaluation:
 
 ```
 📦 Image-Sharpening-KD
-├── Dataset                       # Celeba Dataset
-├── dataset2_Alzheimer            # Alzheimer Dataset
-├── teacherintel.ipynb            # Teacher model training and evaluation
-├── A1StudentModel.ipynb          # Distilled student model implementation
-├── Teacher_Student_Kd_ngrok_.ipynb # Integrated workflow with ngrok (for real-time deployment)
-├── README.md                     # Project description and documentation
+├── Dataset                                      # Celeba Dataset
+├── TeacherStudentModels - Dataset 2 -Alzheimer  # worked on another dataset(Alzheimer Dataset); It contains the student and teacher model worked on the dataset.
+├── teacherintel.ipynb                           # Teacher model training and evaluation
+├── A1StudentModel.ipynb                         # Distilled student model implementation
+├── Teacher_Student_Kd_ngrok_.ipynb              # Integrated workflow with ngrok (for real-time deployment)
+├── README.md                                    # Project description and documentation
 ```
 
 ## 📊 Results
