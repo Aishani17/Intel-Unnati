@@ -11,6 +11,8 @@ This project focuses on enhancing **image sharpness** using an efficient **knowl
 
 Modern applications demand high-quality, sharp images even in low-resource scenarios (e.g., embedded devices, mobile apps). This project aims to distill the sharpening capability of a complex teacher network into a lightweight student model, enabling **real-time deployment** without compromising visual quality.
 
+---
+Video Explanation : https://drive.google.com/file/d/1cdIcu0w-q2hLpb8gAl8Ryze25PKKWI48/view?usp=drive_link
 ##  Project Contributors
 
 - **Eesha Thottempudi**
